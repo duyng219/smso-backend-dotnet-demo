@@ -1,0 +1,374 @@
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\appsettings.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.exe
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\ref\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Humanizer.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.xml
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\appsettings.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.exe
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\ref\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.xml
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.exe
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\ref\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Humanizer.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.xml
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Ardalis.Specification.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Fpt-aptech\SEM-3\Project\smso\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.exe
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\ref\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Ardalis.Specification.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.xml
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+C:\Users\izui1\OneDrive\Desktop\eProject\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.json
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.StaticWebAssets.xml
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.exe
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Ardalis.Specification.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Humanizer.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\refint\BackEnd.dll
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+E:\Workspace\eProject\eProject-T12103E1\BackEnd (1)\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\appsettings.json
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.StaticWebAssets.xml
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.exe
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.deps.json
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.json
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.runtimeconfig.dev.json
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\BackEnd.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Ardalis.Specification.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.AssemblyInfo.cs
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\staticwebassets\BackEnd.StaticWebAssets.Manifest.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.csproj.CopyComplete
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\ref\BackEnd.dll
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.pdb
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\BackEnd.genruntimeconfig.cache
+C:\Users\TUANNGUYEN\source\repos\BackEnd (1)\BackEnd\obj\Debug\net5.0\refint\BackEnd.dll
